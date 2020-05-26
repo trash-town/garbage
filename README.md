@@ -1,5 +1,5 @@
 # possum
-**P**ublishing **O**ur **S**ite by **S**lurping **U**p **M**arkdown
+**P**ublishing **O**ur **S**ite by **S**lurping **U**p **M**arkdown  
 possum is a bespoke site generator for trash.town
 
 ## spec
