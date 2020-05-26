@@ -1,5 +1,6 @@
-# garbage
-garbage is a bespoke site generator for trash.town
+# possum
+**P**ublishing **O**ur **S**ite by **S**lurping **U**p **M**arkdown
+possum is a bespoke site generator for trash.town
 
 ## spec
 the goal is to read a tree of markdown files and use jinja2 templates to easily create our webpage
